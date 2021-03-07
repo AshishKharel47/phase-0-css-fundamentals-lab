@@ -24,4 +24,5 @@ a {
 div {
   float: left;
   background: red;
+  width: 25%;
 }
